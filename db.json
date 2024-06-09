@@ -13,19 +13,5 @@
     photoName: "pizzas/margherita.jpg",
     soldOut: false,
   },
-  {
-    name: "Pizza Spinaci",
-    ingredients: "Tomato spinach, and ricotta cheese",
-    price: 12,
-    photoName: "pizzas/spinaci.jpg",
-    soldOut: false,
-  },
-  {
-    name: "Pizza Funghi",
-    ingredients: "Tomato mozarella mushrooms and onion",
-    price: 12,
-    photoName: "pizzas/funghi.jpg",
-    soldOut: false,
-  }
 ]
 }
